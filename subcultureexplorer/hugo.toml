@@ -1,6 +1,0 @@
-baseURL = 'https://warofthefoxes.github.io/'
-languageCode = 'en-us'
-title = 'Subculture Explorer'
-theme = 'smigle'
-publishDir = 'docs'
-
