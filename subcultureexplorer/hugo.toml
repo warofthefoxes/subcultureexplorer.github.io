@@ -2,7 +2,7 @@ contentDir = "content"
 layoutDir = "layouts"
 publishDir = "docs"
 buildDrafts = false
-baseURL = "subcultureexplorer.lol"
+baseURL = "warofthefoxes.github.io"
 canonifyURLs = true
 title = "Subculture Explorer"
 theme = "smigle"
@@ -13,4 +13,4 @@ theme = "smigle"
 
 [params]
   subtitle = "Subculture Explorer... lol"
-  author = "Louis B"
+  author = "subex"
